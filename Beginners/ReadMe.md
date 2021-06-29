@@ -1,0 +1,1 @@
+These tutorials are designed for people who are new to programming and would like to begin by learning Python. The end goal of these tutorials is that beginners will be able to do basic data analysis in Python.
